@@ -1,2 +1,2 @@
-# ETn-210
+# ETN-210
 Procesadores e Interfaces
